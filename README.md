@@ -1,6 +1,5 @@
-# Explainable-AI Lime
+# Explainable-AI with LIME
 
-LIME
 LIME is model-agnostic, which means it may
 be used with any machine learning model. The
 technique tries to figure out what the model is doing by perturbating input images and seeing how 
